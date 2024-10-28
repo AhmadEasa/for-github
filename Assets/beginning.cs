@@ -33,7 +33,7 @@ public class how : MonoBehaviour
 */
 
                               //Exe 2 
-         string[] words = {"Cat", "Dog", "Car", "Pizza", "Hat", "Fish", "Tree", "Monkey", "Ball", "Bird" };
+         string[] words = {"subhi" , "Cat", "Dog", "Car", "Pizza", "Hat", "Fish", "Tree", "Monkey", "Ball", "Bird" };
     string sentence = "";
 
     void Start()
